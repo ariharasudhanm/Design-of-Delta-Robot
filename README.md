@@ -25,10 +25,6 @@ See real examples:
 >   * [Limitations](https://github.com/ariharasudhanm/Design-of-Delta-Robot/blob/9478849ddac64937d7daad748451efada0b2e517/Ariharasudhan_Muthusami.pdf)
 
 
-## Installation
-
-
-
 ## Usage 
 - Delta Robot safety is also understood in various ways, including preventing the automation from damaging its environment, notably the human involvement of that surroundings, and easily preventing injury to the robot itself. while not correct precautions, a robot experiencing a fault or failure can cause serious injuries to people and injury equipment in or around a work cell More clear instructions are available in the https://github.com/ariharasudhanm/Design-of-Delta-Robot/blob/9478849ddac64937d7daad748451efada0b2e517/Ariharasudhan_Muthusami.pdf in the Requirements of work safety and  environment.
 
