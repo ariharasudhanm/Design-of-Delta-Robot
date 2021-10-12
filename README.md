@@ -6,7 +6,7 @@
 * Project status: Completed.
 
 
-See real examples:
+See some drawings:
 
 * <https://github.com/ariharasudhanm/Design-of-Delta-Robot/blob/9478849ddac64937d7daad748451efada0b2e517/Drawings/Assembly%20view.PDF>
 * <https://github.com/ariharasudhanm/Design-of-Delta-Robot/blob/9478849ddac64937d7daad748451efada0b2e517/Drawings/Genearl%20view.PDF>
