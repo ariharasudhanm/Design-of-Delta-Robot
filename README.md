@@ -59,7 +59,7 @@ After checking the specified combination of the robot and controller, connect th
 Can be found in https://github.com/ariharasudhanm/Design-of-Delta-Robot/blob/9478849ddac64937d7daad748451efada0b2e517/Ariharasudhan_Muthusami.pdf under References section.
 
 ## Contributing
-It was completely my work uder the guidance of my supervisor Associate professor Dr., Sigitas Petkivicius.
+It was completely my work under the guidance of my supervisor Associate professor Dr., Sigitas Petkivicius.
 
 
 ![IMG_5653](https://user-images.githubusercontent.com/49080561/136815054-1cb760c3-25d9-41cc-bc3a-0affdf1863f9.JPG)
