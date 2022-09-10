@@ -40,7 +40,6 @@ Design overview:
 
 ### Features
 - Belt actuation method is chosen because it has low mass inertia and it can produce high caliber of torque support so reducing one arm which reduces a joint, by this moment can be reduced,which can be used for higher payloads of 2 kg by maintaining medium accuracy of ±0.2 mm.
-- Belt actuation method is chosen because it has low mass inertia and it can produce high caliber of torque support so reducing one arm which reduces a joint, by this moment can be reduced, which can be used for higher payloads of 2 kg by maintaining medium accuracy of ±0.2 mm.
 - From economical calculations mechanical parts contributes 80% of the total cost for producing the device which is comparatively higher than electrical components but repairing costs of mechanical components when compared to replacement of electrical components is cheap and efficient way and breakpoint occurs at 422 units.
 
 
